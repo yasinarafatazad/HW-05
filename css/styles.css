@@ -1,9 +1,9 @@
 *{
-    background: #fff
+    background: #fff;
 }
 .container{
     background: black;
-    width:100%;
+    width:600px;
     height:700px;
 }
 .main{
