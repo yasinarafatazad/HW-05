@@ -7,7 +7,7 @@
     height:700px;
 }
 .main{
-    display: block;
+    display: inline-block;
     margin: 50px;
     background: cyan;
     height: 600px;
